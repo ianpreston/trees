@@ -1,6 +1,6 @@
 # trees
 
-Trees is a Javascript obfuscator that replaces variable names with usernames from [r/trees](https://www.reddit.com/r/trees).
+Trees is a Javascript obfuscator that replaces variable names with usernames from [r/trees](https://www.reddit.com/r/trees). Built at DesertPy Open Hack in about an hour.
 
 ## Usage
 
